@@ -1,0 +1,2 @@
+1. The code asks the user to input the name, quantity, and cost of each item.
+2. After the user indicates they are done entering items, a reciept with list of items and the total cost is printed.
