@@ -1,2 +1,11 @@
 Instructions for running the program:
 
+1. Download all files, making sure they are under the same project.
+2. Run main.cpp
+   Notes: 
+      When running main.cpp, both the function called menu() that corresponds to module 4 part 1 and the largestOfThreeNum() function for module 4 part 2 will run
+      If you want to run one and not the other, feel free to common one of those functions out. 
+
+3. The code for the functions corresponding to each part of Module 4 is in the file "Module 4_CIS25.cpp".
+   Notes:
+      For the debugging part of the assignment, there are comments on what was wrong with some of the original code.
