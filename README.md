@@ -1,0 +1,1 @@
+There is an array of 100 words sorted alphabetically. Can find the word associated with the id (ID numbers are 0 to 99 inclusive) by inputting the ID when prompted. The struct is defined in the header file. 
