@@ -1,0 +1,5 @@
+Deposit: 100 | Deduction: 0 | Item: Cash | Balance: 100
+Deposit: 0 | Deduction: 600 | Item: wand | Balance: -535
+Deposit: 1.5e+06 | Deduction: 0 | Item: Cash | Balance: 1.49946e+06
+Deposit: 0 | Deduction: 1.4e+06 | Item: Snake | Balance: 99465
+Deposit: 200 | Deduction: 0 | Item: Cash | Balance: 200
