@@ -1,5 +1,3 @@
-This is a program for the Diagnostics Test Tracker application written in C++
-The purpose of this application is to store, track, and perform analysis on patient data and diagnostic test result data
-In order to run this application, be sure to download all contents of this Final_Project branch - everything here is needed to run the program except for the slideshow pdf file.
-Run the program by running the main.cpp file
-Instructions for how the program works is in the slideshow pdf file in this Final_Project branch
+This program reads the data from a CSV file
+Run this program by running the main.cpp file.
+The function for how the CSV file is being read is in the M12.h file.
