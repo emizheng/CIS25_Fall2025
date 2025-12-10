@@ -1,9 +1,0 @@
-﻿  Analysis.cpp
-  CIS Final Project Small Functions.cpp
-  main.cpp
-C:\Users\EmiZh\Documents\C++\CIS_25\CIS Final Project V1\CIS Final Project V1\main.cpp(369,19): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
-C:\Users\EmiZh\Documents\C++\CIS_25\CIS Final Project V1\CIS Final Project V1\main.cpp(370,14): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
-  Generating Code...
-  CIS Final Project V1.vcxproj -> C:\Users\EmiZh\Documents\C++\CIS_25\CIS Final Project V1\x64\Debug\CIS Final Project V1.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
